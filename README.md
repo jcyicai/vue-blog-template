@@ -4,7 +4,7 @@
 
 ## 简介
 
-[vue-blog-template](https://github.com/JasonChen1719/vue-blog-template) 是基于vue2.0，包含了vue-blog-template(PC版)、vue-blog-h5(H5版)、vue-blog-admin(blog后台管理系统)、node-server-api(blog服务端API)，用于个人博客的开发和管理。
+[vue-blog-template](https://github.com/chenyicai622/vue-blog-template) 是基于vue2.0，包含了vue-blog-template(PC版)、vue-blog-h5(H5版)、vue-blog-admin(blog后台管理系统)、node-server-api(blog服务端API)，用于个人博客的开发和管理。
 
 - [在线预览](http://cycblog.cn) 
 - [H5版在线预览](http://m.cycblog.cn) (浏览器访问请切换移动模式)
@@ -86,7 +86,7 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/JasonChen1719/vue-blog-template.git
+git clone https://github.com/chenyicai622/vue-blog-template.git
 
 # 进入项目目录
 cd vue-blog-template
@@ -125,6 +125,6 @@ node index.js
 
 ## License
 
-[MIT](https://github.com/JasonChen1719/vue-blog-template/blob/main/LICENSE)
+[MIT](https://github.com/chenyicai622/vue-blog-template/blob/main/LICENSE)
 
 Copyright (c) 2021 Jason Chen
